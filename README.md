@@ -10,10 +10,10 @@ Nesta etapa vamos criar a versão básica do jogo:
 
 <img src="conceitoc.jpg" width="680"/>
 
-1. É criado um jogo com uma tela de tamanho $800\times 600$ no arquivo `jogo.py`. (0.5 ponto)
-2. O jogo apresenta três quadrados empilhados no centro da tela. Cada um deve possuir uma cor. Esses quadrados estão em cima de uma plataforma de uma cor diferente. (1.5 ponto)
-3. O arquivo `gerador.py` contém uma função chamada `gera_numeros`. Esta função gera 4 números inteiros aleatórios. Os três primeiros números devem ser mostrados um dentro de cada quadrado e o quarto número deve ser mostrado no canto superior esquerdo da tela. Não é necessário centralizar o número. (1.5 ponto)
-4. Ao clicar em qualquer lugar dentro de um quadrado, o programa deve imprimir no terminal o número que está no quadrado. (1.5 ponto)
+1. É criado um jogo com uma tela de tamanho $800\times 600$ no arquivo `jogo.py`.
+2. O jogo apresenta três quadrados empilhados no centro da tela. Cada um deve possuir uma cor. Esses quadrados estão em cima de uma plataforma de uma cor diferente.
+3. O arquivo `gerador.py` contém uma função chamada `gera_numeros`. Esta função gera 4 números inteiros aleatórios. Os três primeiros números devem ser mostrados um dentro de cada quadrado e o quarto número deve ser mostrado no canto superior esquerdo da tela. Não é necessário centralizar o número no quadrado.
+4. Ao clicar em qualquer lugar dentro de um quadrado, o programa deve imprimir no terminal o número que está no quadrado.
 
 ___
 
