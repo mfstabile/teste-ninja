@@ -8,9 +8,7 @@ Nesta avaliação de pygame faremos um jogo que testa a capacidade do jogador de
 
 Nesta etapa vamos criar a versão básica do jogo:
 
-<figure markdown="span">
-  ![Imagem do jogo](conceitoc.jpg){: .figure width=80% border-width="1px"}
-</figure>
+![Imagem do jogo](conceitoc.jpg)
 
 1. É criado um jogo com uma tela de tamanho $800\times 600$ no arquivo `jogo.py`. (0.5 ponto)
 2. O jogo apresenta três quadrados empilhados no centro da tela. Cada um deve possuir uma cor. Esses quadrados estão em cima de uma plataforma de uma cor diferente. (1.5 ponto)
