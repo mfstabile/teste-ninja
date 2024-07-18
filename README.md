@@ -19,6 +19,8 @@ ___
 
 ### Proficiente
 
+<img src="jogo_b.gif" width="680"/>
+
 1. Ao clicar em um quadrado, tanto o quadrado quanto o número que está dentro dele devem sumir da tela.
 
 2. No lugar onde estava o quadrado clicado, deve aparecer o texto "Certo!" ou "Errado!" dependendo se o número que estava no quadrado clicado faz parte da soma dos três números que estavam nos quadrados. Veja no exemplo abaixo: Quando o quadrado desaparece, caso a soma dos blocos restantes seja igual ao número que estava no canto superior esquerdo, deve aparecer "Certo!" no lugar do quadrado clicado. Caso a soma dos blocos restantes seja diferente do número que estava no canto superior esquerdo, deve aparecer "Errado!" no lugar do quadrado clicado.
